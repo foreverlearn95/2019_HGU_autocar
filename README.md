@@ -17,7 +17,7 @@ To understand ROS technique fully, I have to know about network, but I didn't kn
 
 And my team analyzed line detection algorithm with Mathematics like these pictures.
 
-
+<img src=./img/analyze1.jpg" width="300px" height="300px">
 ![mat1](./img/analyze1.jpg){: width="300px" height="300px"}
 ![mat2](./img/analyze2.jpg){: width="300px" height="300px"}
 
