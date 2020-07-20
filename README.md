@@ -8,7 +8,6 @@ Furthermore, my team used openCV to detect line and PID control to make the car 
 
 We arranged speed on the course (curve, straight line).
 
-
 Especially, In camera_on code, left and right lines are detected resulting in average values at each line.
 
 In mailbox_node code, PID control and speed arrangement are used.
@@ -18,8 +17,8 @@ To understand ROS technique fully, I have to know about network, but I didn't kn
 And my team analyzed line detection algorithm with Mathematics like these pictures.
 
 
-![mat1](./img/analyze1.jpg =200x200)
-![mat2](./img/analyze2.jpg =200x200)
+<img src="./img/analyze1.jpg" width="50%">
+<img src="./img/analyze2.jpg" width="50%">
 
 To communicate with Rasberry PI in automatic car, we used Ubuntu for linux build.
 
