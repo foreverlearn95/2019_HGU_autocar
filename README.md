@@ -32,3 +32,6 @@ In this sequence, we build files to activate car.
 we failed to stop the car at the stop line because we didn't build code to send msg 'stop' to car.
 
 our team spent about a month and got 3rd prize.
+
+I didn't all the code that activate car. (communication code is excepted)
+Only I uploaded core src code that I understood and I think it is essential to this project.
